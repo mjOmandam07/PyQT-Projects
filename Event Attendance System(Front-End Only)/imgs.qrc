@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>images/icons8-lol-100.png</file>
+    <file>images/icons8-combo-chart-24.png</file>
+    <file>images/icons8-search-24.png</file>
+    <file>images/icons8-home-24.png</file>
+    <file>images/cil-window-maximize.png</file>
+    <file>images/cil-window-minimize.png</file>
+    <file>images/cil-window-restore.png</file>
+    <file>images/cil-x.png</file>
+    <file>images/icons8-attendance-24.png</file>
+    <file>images/icons8-database-import-24.png</file>
+    <file>images/icons8-project-setup-24.png</file>
+    <file>images/icons8-save-24.png</file>
+    <file>images/69966224_529007501194280_1543502514790334464_n.png</file>
+    <file>images/icons8-menu-24.png</file>
+    <file>images/UPSTREAM LOGO CIRCLE transparent.png</file>
+    <file>images/UPSTREAM LOGO white.png</file>
+    <file>images/UPSTREM LOGO black transparent.png</file>
+    <file>images/icons8-personal-growth-24.png</file>
+  </qresource>
+</RCC>
